@@ -183,4 +183,4 @@ You’ve successfully:
 ✅ Automated deployment using GitHub Actions.  
 ✅ Verified the deployment in Azure.  
 
-I trust you were able to complete this successfully 🚀 
+You did it 🚀 
