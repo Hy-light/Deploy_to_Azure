@@ -183,4 +183,4 @@ You’ve successfully:
 ✅ Automated deployment using GitHub Actions.  
 ✅ Verified the deployment in Azure.  
 
-This demo is ready for your session! 🚀 Let me know if you need any refinements.
+I trust you were able to complete this successfully 🚀 
